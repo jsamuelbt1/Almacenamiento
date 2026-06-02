@@ -8,14 +8,14 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:id="@+id/tvmRuta"
+        android:id="@+id/tvwRuta"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!"
          />
 
     <TextView
-        android:id="@+id/ContentFile"
+        android:id="@+id/tvwContentFile"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!"
